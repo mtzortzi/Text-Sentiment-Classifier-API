@@ -36,3 +36,9 @@ Response:
   "confidence": 0.9981
 }
 ``
+
+# 📁 File Structure
+.
+├── main.py               # API implementation
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
