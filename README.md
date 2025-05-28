@@ -24,21 +24,22 @@ A lightweight version of BERT fine-tuned on the SST-2 dataset for sentiment clas
 Request:
 ``
 POST /predict
-{
-  "text": "I absolutely love this product!"
+{ 
+  "text": "I absolutely love this product!" 
 }
 ``
 
 Response:
 ``
-{
-  "sentiment": "positive",
-  "confidence": 0.9981
+{ 
+  "sentiment": "positive", 
+  "confidence": 0.9981 
 }
 ``
 
 # 📁 File Structure
-.
-├── main.py               # API implementation
-├── requirements.txt      # Python dependencies
-└── README.md             # Project documentation
+
+. </br>
+├── main.py               # API implementation </br>
+├── requirements.txt      # Python dependencies </br>
+└── README.md             # Project documentation </br>
