@@ -61,16 +61,16 @@ Response:
    Go to https://huggingface.co/spaces and click Create new Space
 
 3. Fill out the form
-  - Space name: text-sentiment-api (or your choice)
-  - SDK: Gradio
-  - Visibility: Public or Private
+   - Space name: text-sentiment-api (or your choice)
+   - SDK: Gradio
+   - Visibility: Public or Private
 
 4. Upload the files
-  - app.py
-  - requirements.txt
-  - README.md (this file)
+   - app.py
+   - requirements.txt
+   - README.md (this file)
 
 5. Wait for the build 
-Hugging Face will automatically install dependencies and launch the app
+   Hugging Face will automatically install dependencies and launch the app
 
 6. Access your app
